@@ -34,7 +34,7 @@ Ensure you have a C++ compiler installed (like g++).
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/kibromhailu11/Payroll-Management-System-class-project.git
 Compile the program:
 
 Bash
